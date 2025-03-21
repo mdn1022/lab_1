@@ -11,5 +11,8 @@
 # Adding users to groups
 ![Alt text](https://github.com/mdn1022/lab_1/blob/main/adding%20users%20to%20groups1.png?raw=true)
 
+# permissions
+![Alt text](https://github.com/mdn1022/lab_1/blob/main/permissions.png?raw=true)
 
-![Alt text]()
+# chown
+![Alt text](https://github.com/mdn1022/lab_1/blob/main/chown.png?raw=true)
